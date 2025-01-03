@@ -44,7 +44,9 @@ dependencies:
       url: https://github.com/nabil6391/flutter.widgets.git
       ref: master
       path: packages/scrollable_positioned_list/
-  carousel_slider: ^4.2.1
+
+  carousel_slider:
+
   full_screen_image: ^2.0.0
   flutter_launcher_icons: ^0.13.1
 

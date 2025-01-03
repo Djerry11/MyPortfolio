@@ -31,7 +31,7 @@ class AppConstants {
   ];
 
   static const List<String> socialLinks = [
-    "https://www.linkedin.com/in/utsab-jhedi",
+    "https://www.linkedin.com/in/utsab-jhedi/",
     "https://github.com/Djerry11/Djerry11",
     "mailto:developer.utsab@gmail.com",
     "https://wa.me/+9779861525980"
@@ -70,5 +70,5 @@ class AppConstants {
 
   // resume link
   static const String resumeLink =
-      'https://drive.google.com/file/d/1BToaBuI6p_SUJEAVU4HXqfd9CyAtWd1m/view?usp=sharing';
+      'https://drive.google.com/file/d/1DjaYSdq--dkFY86JTfLFcbSoz_ibjUHN/view?usp=sharing';
 }

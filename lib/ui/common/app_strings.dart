@@ -18,6 +18,6 @@ class AppStrings {
   static const String projectDes =
       "Here are some of the recent projects I have worked on:";
 
-  static const String linkedinUrl = "https://www.linkedin.com/in/mJhedinoor";
+  static const String linkedinUrl = "https://www.linkedin.com/in/utsab-jhedi/";
   static const String flutterUrl = "https://flutter.dev";
 }
